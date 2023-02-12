@@ -1,5 +1,5 @@
 body{
-    margin-left: 50px;
+    margin: 0px;
     padding: 0px;
     max-width: 720px;
     max-height: 800px;
@@ -18,7 +18,7 @@ p{
     line-height: 4px;
     background-image: url(Love.jpg);
     background-attachment: center;
-    -webkit-background-size: 100% 120%;
+    -webkit-background-size: 120% 140%;
     background-repeat:no-repeat;
     background-position: center;
     -webkit-background-clip: text;
